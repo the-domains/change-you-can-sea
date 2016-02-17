@@ -1,0 +1,28 @@
+name: Change you can Sea
+favicon: null
+layout_spectrum: 0.659241329645738
+typography_spectrum: 0.43040462606586516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.689397128066048
+  lightness: 0.38165542064234614
+  saturation: 0.13442801241762936
+  rhythmicContrast: 0.2657348858192563
+purpose: []
